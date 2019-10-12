@@ -1,0 +1,78 @@
+.wrap{
+    
+    width:1000px;
+    height: auto;
+    
+}
+
+#titleMath {
+    color: blueviolet;
+    float: left;
+    padding: 20px;
+}
+
+.headbox{
+    background-image: linear-gradient( -360deg, lime, white);
+    width: 300px;
+    height: 20px;
+    float:right;
+    padding: 30px;
+}
+
+#searchtab {
+    background-color:blueviolet;
+    color:white;
+    width: 30px;
+    height: 10px;
+    padding: 3px;
+}
+
+.titlebar{
+    background-image: linear-gradient(-360deg, yellow, white);
+    padding : 30px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.questionPart {
+    background-color: lightgreen;
+    padding: 10px;
+    color:green;
+}
+
+#leftbox{
+    float:left;
+    width:400px;
+    height:300px;
+    border-style: ridge;
+    border-radius: 30px;
+    border-color: aquamarine;
+    padding:40px;
+}
+
+#rightbox{
+    float:right;
+    width:400px;
+    height:300px;
+    border-style: ridge;
+    border-radius: 30px;
+    border-color: aquamarine;
+    padding: 40px;
+}
+
+
+.menubox{
+    clear:both;
+}
+
+footer{
+    text-align: center;
+    background-image: linear-gradient(-360deg, yellow,white);
+    padding:10px;
+}
+
+
+
+
+
+
